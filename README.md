@@ -61,3 +61,12 @@ node app.js
 
 4. Open in browser:
 http://localhost:3000
+
+
+![Delete](https://github.com/user-attachments/assets/aebfe0a1-2b9c-4ca8-acc3-1f228e1b14bc)
+![Register](https://github.com/user-attachments/assets/76094d90-3496-4316-a16a-22b966caf62c)
+![Login](https://github.com/user-attachments/assets/3a0f20cc-534a-46b3-ad8e-9b35f0395f82)
+![Home](https://github.com/user-attachments/assets/71762c05-dbd9-4bba-9b61-ec70785e32e1)
+![Edit](https://github.com/user-attachments/assets/9ef70a21-bfcc-40b1-bc3b-f209f41091fb)
+
+   
