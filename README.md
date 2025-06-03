@@ -21,7 +21,33 @@ The project follows the **Model-View-Controller (MVC)** pattern for clean separa
 - **View** – EJS templates render dynamic HTML pages (`login.ejs`, `home.ejs`, etc.).
 - **Controller** – Handles logic and interactions between model and view (`controller.js`).
 
----
+UserManagementApp/
+│
+├── app.js                     # Main app entry point
+├── package.json               # Project metadata and dependencies
+├── README.md                  # Project documentation
+│
+├── config/
+│   └── db.js                  # MongoDB connection setup
+│
+├── controller/
+│   └── controller.js          # Handles user registration, login, CRUD logic
+│
+├── middleware/
+│   └── auth.js                # Route protection middleware
+│
+├── model/
+│   └── userModel.js           # Mongoose schema for users
+│
+├── routes/
+│   └── routing.js             # All Express routes
+│
+└── views/                     # EJS templates (UI)
+    ├── login.ejs              # Login form
+    ├── register.ejs           # Register form
+    ├── home.ejs               # Dashboard with user table
+    └── editUser.ejs           # Edit user form
+
 
 ## 📦 Modules Used
 
